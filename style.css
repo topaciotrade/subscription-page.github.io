@@ -914,3 +914,7 @@ body.light-mode .video-bg:before {
   background: var(--scrollbar-bg);
   border-radius: 10px;
 }
+
+.side-menu a:hover{
+    background: linear-gradient(45deg, #08333f, transparent);
+}
