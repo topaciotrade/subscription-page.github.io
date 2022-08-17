@@ -3,64 +3,64 @@
   "description": "The best assets for increment your profits in your crypto trades.",
   "external_url": "https://topacio.trade",
   "youtube_url": "https://www.youtube.com/channel/UCjDy_HDbDsjTjvWI1PJga6w/featured",
-  "image": "https://ipfs.io/ipfs/QmbtgJbGuzC3kPuTjMU9XJ71qBWfKnRTSUtSJxLCdepZKr",
+  "image": "https://ipfs.io/ipfs/QmU7GDgfannbAo27wdY327Dz7kMZn5CBy4Z2aV8BpfmRXx",
   "edition": 16,
-  "date": 1660748422049,
+  "date": 1660748818349,
   "seller_fee_basis_points": 3,
   "fee_recipient": "0xc2133D7f29e8E2543ecB5B732b07Fe058C26778E",
   "attributes": [
     {
       "trait_type": "Purity",
-      "value": 2,
+      "value": 3,
       "max_value": 10
     },
     {
       "trait_type": "Staking",
-      "value": 0.84,
+      "value": 1.09,
       "max_value": 3
     },
     {
       "trait_type": "Luck",
-      "value": 1.99,
+      "value": 0.57,
       "max_value": 3
     },
     {
       "trait_type": "Craftsting",
-      "value": 1,
+      "value": 5,
       "max_value": 5
     },
     {
       "trait_type": "Drop",
-      "value": 2.08,
+      "value": 1.8,
       "max_value": 3
     },
     {
       "display_type": "boost_percentage",
       "trait_type": "Luck",
-      "value": 1.99,
+      "value": 0.57,
       "max_value": 3
     },
     {
       "display_type": "boost_percentage",
       "trait_type": "Drop",
-      "value": 2.08,
+      "value": 1.8,
       "max_value": 3
     },
     {
       "display_type": "boost_percentage",
       "trait_type": "Staking",
-      "value": 0.84,
+      "value": 1.09,
       "max_value": 3
     },
     {
-      "display_type": "boost_number",
+      "display_type": "boost_percentage",
       "trait_type": "Purity",
-      "value": 20
+      "value": 30
     },
     {
       "display_type": "boost_number",
       "trait_type": "Craftsting",
-      "value": 1,
+      "value": 5,
       "max_value": 5
     },
     {
