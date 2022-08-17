@@ -1,54 +1,66 @@
 {
-  "name": "Topacio NFT token #46",
+  "name": "Topacio NFT #46",
   "description": "The best assets for increment your profits in your crypto trades.",
-  "image": "https://ipfs.io/ipfs/QmS9XTSphi7W9sYbkVJUjFN6gUmSgVTj1mp3wMf2Vxz6fF",
+  "external_url": "https://topacio.trade",
+  "image": "https://ipfs.io/ipfs/QmeukPW7QbD2k43CytaDKboybV8Ld9axMUYX65rfEh5QF5",
   "edition": 46,
-  "date": 1660720950872,
+  "date": 1660776701093,
+  "seller_fee_basis_points": 3,
+  "fee_recipient": "0xc2133D7f29e8E2543ecB5B732b07Fe058C26778E",
   "attributes": [
     {
-      "trait_type": "Purity",
-      "value": 2
-    },
-    {
-      "trait_type": "Staking",
-      "value": 0.92
-    },
-    {
       "trait_type": "Luck",
-      "value": 0.92
+      "value": 2.59,
+      "max_value": 3
     },
     {
       "trait_type": "Craftsting",
-      "value": 2
+      "value": 3,
+      "max_value": 5
     },
     {
       "trait_type": "Drop",
-      "value": 0.63
+      "value": 1.03,
+      "max_value": 3
     },
     {
-      "display_type": "boost_percentage",
+      "display_type": "boost_number",
       "trait_type": "Luck",
-      "value": 0.92
-    },
-    {
-      "display_type": "boost_percentage",
-      "trait_type": "Drop",
-      "value": 0.63
+      "value": 2.59,
+      "max_value": 3
     },
     {
       "display_type": "boost_percentage",
       "trait_type": "Staking",
-      "value": 0.92
+      "value": 1.62
     },
     {
       "display_type": "boost_number",
       "trait_type": "Craftsting",
-      "value": 2
+      "value": 3,
+      "max_value": 5
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Drop",
+      "value": 1.03,
+      "max_value": 3
     },
     {
       "display_type": "number",
       "trait_type": "Generation",
       "value": 1
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Purity",
+      "value": 4,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Purity",
+      "value": 4,
+      "max_value": 10
     }
   ]
 }
