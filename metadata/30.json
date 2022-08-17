@@ -2,25 +2,25 @@
   "name": "Topacio NFT #30",
   "description": "The best assets for increment your profits in your crypto trades.",
   "external_url": "https://topacio.trade",
-  "image": "https://ipfs.io/ipfs/QmQCqNm41u7Z9gkc7RP3TsRqn9KrV7mSzr84U8vjicLphD",
+  "image": "https://ipfs.io/ipfs/QmbHQL2pLYj5oQf84Uj2h6rvkRFP3okTaDufBKMnvkruxo",
   "edition": 30,
-  "date": 1660762166421,
+  "date": 1660763261855,
   "seller_fee_basis_points": "3",
   "fee_recipient": "0xc2133D7f29e8E2543ecB5B732b07Fe058C26778E",
   "attributes": [
     {
       "trait_type": "Purity",
-      "value": 1,
+      "value": 2,
       "max_value": 10
     },
     {
       "trait_type": "Staking",
-      "value": 0.69,
+      "value": 0.64,
       "max_value": 3
     },
     {
       "trait_type": "Luck",
-      "value": 0.58,
+      "value": 1.26,
       "max_value": 3
     },
     {
@@ -30,33 +30,36 @@
     },
     {
       "trait_type": "Drop",
-      "value": 0.77,
+      "value": 1.44,
       "max_value": 3
     },
     {
       "display_type": "boost_number",
       "trait_type": "Luck",
-      "value": 0.58
+      "value": 1.26,
+      "max_value": 3
     },
     {
       "display_type": "boost_number",
       "trait_type": "Drop",
-      "value": 0.77
+      "value": 1.44,
+      "max_value": 3
     },
     {
       "display_type": "boost_percentage",
       "trait_type": "Staking",
-      "value": 0.69
+      "value": 0.64
     },
     {
       "display_type": "boost_percentage",
       "trait_type": "Purity",
-      "value": 10
+      "value": 20
     },
     {
       "display_type": "boost_number",
       "trait_type": "Craftsting",
-      "value": 3
+      "value": 3,
+      "max_value": 5
     },
     {
       "display_type": "number",
