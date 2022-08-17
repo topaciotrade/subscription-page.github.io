@@ -1,60 +1,54 @@
-  {
-    "name": "Topacio NFT token #",
-    "description": "The best assets for increment your profits in your crypto trades.",
-    "image": "https://ipfs.io/ipfs/QmSe9jpn1xAAm1deB4XfBQ25Gi9jXvH3dK4uuTDq1QizRT",
-    "edition": 3,
-    "date": 1660712628429,
-    "purity": 2,
-    "attributes": [
-      {
-        "trait_type": "Purity",
-        "value": 2
-      },
-      {
-        "trait_type": "Staking",
-        "value": 0.21
-      },
-      {
-        "trait_type": "Luck",
-        "value": 1.89
-      },
-      {
-        "trait_type": "Craftsting",
-        "value": 1
-      },
-      {
-        "trait_type": "Drop",
-        "value": 0.39
-      },
-      {
-        "display_type": "boost_percentage",
-        "trait_type": "Luck",
-        "value": 1.89
-      },
-      {
-        "display_type": "boost_percentage",
-        "trait_type": "Drop",
-        "value": 0.39
-      },
-      {
-        "display_type": "boost_percentage",
-        "trait_type": "Staking",
-        "value": 0.21
-      },
-      {
-        "display_type": "boost_percentage",
-        "trait_type": "Purity",
-        "value": 20
-      },
-      {
-        "display_type": "boost_number",
-        "trait_type": "Craftsting",
-        "value": 1
-      },
-      {
-        "display_type": "number",
-        "trait_type": "Generation",
-        "value": 1
-      }
-    ]
-  }
+{
+  "name": "Topacio NFT token #3",
+  "description": "The best assets for increment your profits in your crypto trades.",
+  "image": "https://ipfs.io/ipfs/QmNcpSeSYEnmKsX2TieGDDZDzL8Roa1KYLEYi3AMvJHvSV",
+  "edition": 3,
+  "date": 1660720909932,
+  "attributes": [
+    {
+      "trait_type": "Purity",
+      "value": 4
+    },
+    {
+      "trait_type": "Staking",
+      "value": 1.24
+    },
+    {
+      "trait_type": "Luck",
+      "value": 0.37
+    },
+    {
+      "trait_type": "Craftsting",
+      "value": 3
+    },
+    {
+      "trait_type": "Drop",
+      "value": 1.44
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Luck",
+      "value": 0.37
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Drop",
+      "value": 1.44
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Staking",
+      "value": 1.24
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Craftsting",
+      "value": 3
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 1
+    }
+  ]
+}

@@ -1,54 +1,49 @@
 {
-  "name": "Topacio NFT token",
+  "name": "Topacio NFT token #89",
   "description": "The best assets for increment your profits in your crypto trades.",
-  "image": "https://ipfs.io/ipfs/QmYUYSc8RaSrH35nFQVfqpWU6BcUtLShJ3zgev9THMrJT5",
+  "image": "https://ipfs.io/ipfs/QmSNZusktQAVkXXzRWW1sHgXGUVi9wpkj8K268LZhD1r56",
   "edition": 89,
-  "date": 1660719753051,
+  "date": 1660720992322,
   "attributes": [
     {
       "trait_type": "Purity",
-      "value": 2
+      "value": 3
     },
     {
       "trait_type": "Staking",
-      "value": 1.51
+      "value": 2.42
     },
     {
       "trait_type": "Luck",
-      "value": 0.96
+      "value": 1.35
     },
     {
       "trait_type": "Craftsting",
-      "value": 4
+      "value": 1
     },
     {
       "trait_type": "Drop",
-      "value": 1.13
+      "value": 1.2
     },
     {
       "display_type": "boost_percentage",
       "trait_type": "Luck",
-      "value": 0.96
+      "value": 1.35
     },
     {
       "display_type": "boost_percentage",
       "trait_type": "Drop",
-      "value": 1.13
+      "value": 1.2
     },
     {
       "display_type": "boost_percentage",
       "trait_type": "Staking",
-      "value": 1.51
-    },
-    {
-      "display_type": "boost_percentage",
-      "trait_type": "Purity",
-      "value": 20
+      "value": 2.42
     },
     {
       "display_type": "boost_number",
       "trait_type": "Craftsting",
-      "value": 4
+      "value": 1
     },
     {
       "display_type": "number",
